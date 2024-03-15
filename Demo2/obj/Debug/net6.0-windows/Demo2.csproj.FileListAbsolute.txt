@@ -1,0 +1,74 @@
+D:\Code\Hospital Management\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.exe
+D:\Code\Hospital Management\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.deps.json
+D:\Code\Hospital Management\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.runtimeconfig.json
+D:\Code\Hospital Management\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.dll
+D:\Code\Hospital Management\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.pdb
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.AssemblyReference.cache
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.GenerateResource.cache
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfoInputs.cache
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfo.cs
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.CoreCompileInputs.cache
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.dll
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\refint\Demo2.dll
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.pdb
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.genruntimeconfig.cache
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\ref\Demo2.dll
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.DrawForm.resources
+D:\Code\Hospital Management\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.MainForm.resources
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.exe
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.deps.json
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.runtimeconfig.json
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.dll
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.pdb
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.AssemblyReference.cache
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.DrawForm.resources
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.MainForm.resources
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.GenerateResource.cache
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfoInputs.cache
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfo.cs
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.CoreCompileInputs.cache
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.dll
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\refint\Demo2.dll
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.pdb
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.genruntimeconfig.cache
+D:\HKII_Year3rd\Niên luận cơ sở ngành\Demo2\Demo2\obj\Debug\net6.0-windows\ref\Demo2.dll
+K:\NIÊN LUẬN\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.exe
+K:\NIÊN LUẬN\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.deps.json
+K:\NIÊN LUẬN\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.runtimeconfig.json
+K:\NIÊN LUẬN\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.dll
+K:\NIÊN LUẬN\Demo2\Demo2\bin\Debug\net6.0-windows\Demo2.pdb
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.AssemblyReference.cache
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.DrawForm.resources
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.MainForm.resources
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.GenerateResource.cache
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfoInputs.cache
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfo.cs
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.CoreCompileInputs.cache
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.dll
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\refint\Demo2.dll
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.pdb
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\Demo2.genruntimeconfig.cache
+K:\NIÊN LUẬN\Demo2\Demo2\obj\Debug\net6.0-windows\ref\Demo2.dll
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\bin\Debug\net6.0-windows\Demo2.exe
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\bin\Debug\net6.0-windows\Demo2.deps.json
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\bin\Debug\net6.0-windows\Demo2.runtimeconfig.json
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\bin\Debug\net6.0-windows\Demo2.dll
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\bin\Debug\net6.0-windows\Demo2.pdb
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.DrawForm.resources
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.MainForm.resources
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.GenerateResource.cache
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfoInputs.cache
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.AssemblyInfo.cs
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.csproj.CoreCompileInputs.cache
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.dll
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\refint\Demo2.dll
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.pdb
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.genruntimeconfig.cache
+D:\Bài tập hk1 năm 4\NLCS-KTPM\Demo2-master\Demo2\obj\Debug\net6.0-windows\ref\Demo2.dll
+C:\Users\HP\Desktop\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.dll
+C:\Users\HP\Desktop\Demo2-master\Demo2\obj\Debug\net6.0-windows\refint\Demo2.dll
+C:\Users\HP\Desktop\Demo2-master\Demo2\obj\Debug\net6.0-windows\Demo2.pdb

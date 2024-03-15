@@ -1,0 +1,5 @@
+D:\.NET\New folder\Demo2.exe
+D:\.NET\New folder\Demo2.dll
+D:\.NET\New folder\Demo2.deps.json
+D:\.NET\New folder\Demo2.runtimeconfig.json
+D:\.NET\New folder\Demo2.pdb

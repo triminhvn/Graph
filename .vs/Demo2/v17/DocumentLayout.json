@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\demo_Graph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|c:\\users\\hp\\desktop\\demo_graph\\demo2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|solutionrelative:demo2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|c:\\users\\hp\\desktop\\demo_graph\\demo2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|solutionrelative:demo2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|c:\\users\\hp\\desktop\\demo_graph\\demo2\\drawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|solutionrelative:demo2\\drawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|c:\\users\\hp\\desktop\\demo_graph\\demo2\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|solutionrelative:demo2\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|c:\\users\\hp\\desktop\\demo_graph\\demo2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DA5777-5555-4BE4-9159-0EB000C9FF7A}|Demo2\\Demo2.csproj|solutionrelative:demo2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\DrawForm.cs",
+              "RelativeDocumentMoniker": "Demo2\\DrawForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\DrawForm.cs [Design]",
+              "RelativeToolTip": "Demo2\\DrawForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:15:21.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\Graph.cs",
+              "RelativeDocumentMoniker": "Demo2\\Graph.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\Graph.cs",
+              "RelativeToolTip": "Demo2\\Graph.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:28:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\MainForm.cs",
+              "RelativeDocumentMoniker": "Demo2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\MainForm.cs",
+              "RelativeToolTip": "Demo2\\MainForm.cs",
+              "ViewState": "AQIAALoAAABAmZmZmZkvwMMAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:28:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Demo2\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\MainForm.Designer.cs",
+              "RelativeToolTip": "Demo2\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAEAAACQ/f////8TwCIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:28:17.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\MainForm.cs",
+              "RelativeDocumentMoniker": "Demo2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\demo_Graph\\Demo2\\MainForm.cs [Design]",
+              "RelativeToolTip": "Demo2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:28:17.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
